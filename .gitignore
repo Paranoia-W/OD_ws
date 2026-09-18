@@ -1,0 +1,16 @@
+# catkin workspace outputs
+/build/
+/devel/
+/install/
+/logs/
+/src/CMakeLists.txt
+/.catkin_workspace
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor settings
+.idea/
+.vscode/
